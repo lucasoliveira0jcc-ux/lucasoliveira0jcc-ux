@@ -63,12 +63,6 @@ Estudante de **Análise e Desenvolvimento de Sistemas** na UNIFOR (3º semestre)
 
 ---
 
-### 📌 Projeto em destaque
-
-**[flipper-insights](https://github.com/lucasoliveira0jcc-ux/flipper-insights)** — Micro-SaaS de inteligência de mercado para flippers  
-Captura de dados via ML/OLX/FB, deduplicação, normalização e arbitragem de preços · `Python`
-
----
 
 ### 🌐 Idiomas
 
